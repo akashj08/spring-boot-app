@@ -13,7 +13,7 @@ local.properties
 target/
 .loadpath
 
-*.py
+#*.py
 
 .bash_profile
 
